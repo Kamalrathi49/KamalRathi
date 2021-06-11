@@ -11,7 +11,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=ffffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript&logoColor=ffffff)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript&logoColor=ffffff)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=ffffff)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat-square&logo=django&logoColor=ffffff)&nbsp;<br/>
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5&logoColor=ffffff)&nbsp;
@@ -24,7 +23,6 @@
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=ffffff)<br/>
-![Atom](https://img.shields.io/badge/-Atom-333333?style=flat-square&logo=atom&logoColor=ffffff)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman&logoColor=ffffff)&nbsp;
 
